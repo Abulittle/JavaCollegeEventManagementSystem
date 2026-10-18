@@ -1,0 +1,7 @@
+functions\UiFunctions.class
+functions\DBConnection.class
+interfaces\Student.class
+functions\Event.class
+interfaces\Admin.class
+main\Main.class
+interfaces\Organisers.class
